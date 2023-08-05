@@ -1,3 +1,6 @@
+
+
+
 import Navbar from './comp/Navbar.js';
 import Home from './comp/Home.js'
 import Latest from './comp/Latest.js'
