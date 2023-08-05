@@ -1,0 +1,38 @@
+.nav{
+  box-sizing: border-box;
+  box-shadow: 20px;
+  background-color: black;
+ padding: 10px;
+ 
+ 
+ }
+ 
+ .btn{
+     padding: 10px;
+     color: white;
+     background-color: black;
+    border: none;
+    cursor: pointer;
+    font-weight: 50px;
+ }
+ 
+  .btn:hover {
+     text-decoration: underline;
+     text-decoration-color:pink;
+     color: pink;
+   }
+   
+  
+ 
+ .header{
+ justify-content: space-between;
+ color: aliceblue;
+ margin-top: 20px;;
+ }
+ 
+ .text{
+  font-size: 50px;
+  color: black;
+  text-decoration:solid;
+  text-align: center;
+ }
